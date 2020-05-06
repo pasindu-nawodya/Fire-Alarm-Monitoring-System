@@ -364,7 +364,7 @@ FireAlarmSensor, Runnable,Serializable  {
 			
 			try {
 				
-				Thread.sleep(5000);
+				Thread.sleep(15000);
 			}
 			catch(InterruptedException ie) {
 				

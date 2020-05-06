@@ -12,7 +12,7 @@ const App = ()=> {
     
     setInterval(function(){
       getSensors();
-    },5000);
+    },40000);
    
   },[]);
 
