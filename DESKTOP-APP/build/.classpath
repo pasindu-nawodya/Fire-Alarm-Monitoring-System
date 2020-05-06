@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/AbsoluteLayout-RELEASE113.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/aopalliance-repackaged-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/chilkat.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/comm-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/core-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/guava.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/hk2-api-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/hk2-locator-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/hk2-utils-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-core-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-databind-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-databind-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-jaxrs-base-2.8.4.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-jaxrs-json-provider-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jackson-module-jaxb-annotations-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/java-json.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/javax.inject-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-client-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-common-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-container-jetty-http-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-container-jetty-servlet-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-container-servlet-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-container-servlet-core-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-entity-filtering-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-guava-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-media-jaxb-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-media-json-jackson-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jersey-server-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-continuation-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-http-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-io-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-security-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-server-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-servlet-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-util-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-webapp-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/jetty-xml-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/joda-time-2.10.5.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/json-lib-2.0-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/json-serialization-0.5.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/twilio-7.49.0.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/typetools-0.4.8.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/SLIIT/LECTURE/YEAR 3/SEM 1/#Assignment/DS/Assignment 2/Fire Alarm System/DESKTOP-APP/jars/gson-2.8.5.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
