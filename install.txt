@@ -14,9 +14,9 @@
    1) Open 'DESKTOP-APP'folder
    2) Open 'build' file on eclipse IDE
    3) Add all jar files to libraries
-   4) Run 'FireAlarmSensorServer.java' file
-   5) Run 'client.java' file
-   6) To Change smoke level and co2 level 
+   4) Run 'FireAlarmSensorServer.java' file (RMI Serever)
+   5) Run 'client.java' file (Client)
+   6) To Change smoke level and co2 level randomly
 	- Go Sensor App folder
 	- Run 'sensorApp.java' file
 
