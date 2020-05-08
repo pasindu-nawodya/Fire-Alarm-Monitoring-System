@@ -3,7 +3,7 @@
 `Note : Check install.txt to Installation Guide`
 
 ### Instruction & Explanation video:
-`https://youtu.be/WDvHA-wGrvk`
+https://youtu.be/WDvHA-wGrvk
 
 ### API run on:
 `http://localhost:4000/`
