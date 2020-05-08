@@ -1,0 +1,38 @@
+ 
+>>>>>>>>> Install instruction<<<<<<<<<<
+
+************** To Run API *****************
+
+   1) Open API folder
+   2) Open cmd in that directory
+   3) Run 'npm install' command to install dependencies
+   4) Run 'npm start' command to run API
+   5) Run on localhost:4000 port
+
+********* To Run Desktop Application ***********
+
+   1) Open 'DESKTOP-APP'folder
+   2) Open 'build' file on eclipse IDE
+   3) Add all jar files to libraries
+   4) Run 'FireAlarmSensorServer.java' file
+   5) Run 'client.java' file
+   6) To Change smoke level and co2 level 
+	- Go Sensor App folder
+	- Run 'sensorApp.java' file
+
+   Note : All jar can found in ' DESKTOP-APP/jar ' folder
+
+************** To Web Application *****************
+
+   1) Open 'WEB-APP' folder
+   2) Open cmd in that directory
+   3) Run 'npm install' command to install dependencies
+   4) Run 'npm start' command to run web application
+   5) Web App run on localhost:3000 port
+
+*************************************************
+
+Note : step by step included in video
+
+************************************************
+
