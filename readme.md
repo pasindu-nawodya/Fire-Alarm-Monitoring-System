@@ -12,7 +12,7 @@
 `http://localhost:3000/`
 
 ### Web Application
-![Fire Alarm Monitoring System](https://github.com/pasindu-nawodya/Fire-Alarm-Monitoring-System/Screenshots/web.png)
+![Fire Alarm Monitoring System](https://github.com/pasindu-nawodya/Fire-Alarm-Monitoring-System/blob/master/Screenshots/web.png)
 
 ### Desktop Application
-![Fire Alarm Monitoring System](https://github.com/pasindu-nawodya/Fire-Alarm-Monitoring-System/Screenshots/desktop.png)
+![Fire Alarm Monitoring System](https://github.com/pasindu-nawodya/Fire-Alarm-Monitoring-System/blob/master/Screenshots/dektop.png)
